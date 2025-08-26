@@ -1,0 +1,5 @@
+{
+  "name": "Lunaria Mining Premium Access",
+  "description": "A secure access portal for Lunaria Mining Premium members, featuring user registration and login functionality powered by Supabase.",
+  "requestFramePermissions": []
+}
